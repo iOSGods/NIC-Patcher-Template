@@ -18,7 +18,7 @@
 			<key>defaults</key>
 			<string>@@PACKAGENAME@@</string>
 			<key>key</key>
-			<string>kKey</string>
+			<string>key1</string>
 			<key>label</key>
 			<string>Switch Text 1</string>
 		</dict>
@@ -36,7 +36,7 @@
 			<key>defaults</key>
 			<string>@@PACKAGENAME@@</string>
 			<key>key</key>
-			<string>kGems</string>
+			<string>key2</string>
 			<key>label</key>
 			<string>Switch Text 2</string>
 		</dict>
@@ -54,7 +54,7 @@
 			<key>defaults</key>
 			<string>@@PACKAGENAME@@</string>
 			<key>key</key>
-			<string>kLives</string>
+			<string>key3</string>
 			<key>label</key>
 			<string>Switch Text 3</string>
 		</dict>
@@ -72,7 +72,7 @@
 			<key>defaults</key>
 			<string>@@PACKAGENAME@@</string>
 			<key>key</key>
-			<string>kLives</string>
+			<string>key4</string>
 			<key>label</key>
 			<string>Switch Text 4</string>
 		</dict>
